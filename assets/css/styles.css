@@ -742,7 +742,7 @@ form textarea.form-control {
     -webkit-transform: scale(1);
   }
 }
-header {
+header{
   background: #66cdcc;
   /* Old browsers */
   background: -moz-linear-gradient(-45deg, #66cdcc 0%, #336799 100%);
