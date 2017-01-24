@@ -1,0 +1,7 @@
+
+@media screen and (min-width: 480px) {
+    .demo-video{
+        width: 560px;
+        height: 315px;
+    }
+}
